@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
         handler.post(runnable);
-        button.setEnabled(false); //Button tıklanamaz hale gelir
+        button.setEnabled(false); //Button tıklanamaz hale gelir.
 
 
     }
